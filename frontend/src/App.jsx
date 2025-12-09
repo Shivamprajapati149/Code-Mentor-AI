@@ -1,5 +1,5 @@
-import Sidebar from "/components/Sidebar";
-import ChatBox from "/components/ChatBox";
+import Sidebar from "./components/Sidebar";
+import ChatBox from "./components/ChatBox";
 import "./app.css";
 
 function App() {
