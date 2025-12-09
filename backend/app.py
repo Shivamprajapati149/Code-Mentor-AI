@@ -15,6 +15,9 @@ def chat():
     
     reply=ask_ai(message)
     return jsonify({"response":reply})
+@app.route("/", methods=["GET"])
+def index():
+    return jsonify({"status": "Backend is running!"})
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
