@@ -102,6 +102,6 @@ Enhance AI explanations with interactive examples
 
 📌 Credits
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by [Shivam Prajapati]
 
 AI powered by LangChain & Gemini / OpenAI
