@@ -2,7 +2,6 @@ Code Mentor AI
 
 An AI-powered coding mentor to assist with programming queries, provide code explanations, and help you learn efficiently.
 
-
 🚀 Features
 
 Ask programming questions in natural language
